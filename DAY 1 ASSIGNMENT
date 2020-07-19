@@ -1,0 +1,34 @@
+NAME- DISHA BARANWAL
+
+Ques1. What is your understanding about blockchain?
+Ans1. Blockchain is a system of keeping records of data in a manner that no one can alter or hack the data and there is no influence of the third party.
+      The data is much secured and safe. This was introduced after the international crisis of 2008 when the bank "LEHMANN BROS" got bankrupted. 
+      This was done in order to make peer-to-peer transactions. It was first introduced by Satoshi Nakamoto in his article "Bitcoin:a peer to peer electronic cash 
+      system" which was published on 31st october,2008. Even today, nobody knows about this person,people don't even know whether it is a person or a name of a
+      community. Each block has its own hash depending on the data. If the data is slightly changed then the hash will change completely.
+      
+Ques2. What is the main problem blockchain tried to  solve?
+Ans2. After 2008 crisis,the main  problem was the internet being not so secured platform to work on. There were some demerits of using internet like authenticity,
+      security, and the third party being able to access the data. Therefore, there was a need of a more secured network to assure the relevant use of data.
+      
+Ques3. What are the features of blockchain?
+Ans3. The data cannot be hacked or misused.
+      The data cannot be changed.
+      It is tamper-proof.
+      Security boost bis huge.
+      It is decentralised i.e. there is no third party can be involved.
+      High data verifiability and transparency.
+      
+Ques4. What are the things that a block should contain?
+Ans4. A block should contain-
+      block number
+      transaction records
+      previous block signature
+      mining key.
+      
+Ques5. How is the verifiability of the blockchain attained?
+Ans5. Each block has its own signature(hash) which gets altered when someone is trying to play with data. Every individual involved in this blockchain will have the 
+      same data as well as signature. If by chance someone's signature is different from the rest ones then the person can easily check where his data is different.
+      
+      
+      
